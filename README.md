@@ -1,2 +1,46 @@
-# msp432e401
-i have a contest about MSP432e401,but their few material about it ,so i want to record my experience!
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">profile</h2>
+</p>
+
+## Hi there 👋 I'm [ZhouZhanPeng](https://github.com/zzpspierman123)
+> A Sophomore Student in [HuaiHua University](http://www.hhtc.edu.cn/?affichelist-2)
+
+## About The Project
+<img src="https://komarev.com/ghpvc/?username=zzpspierman123" alt="zzpspierman123" />
+<div>
+ <p>
+  
+This project is about infrared communication, we use all digital scheme to achieve communication by infrared. 
+<div>
+Besides this project is a subject about 2022 Electronic Design Competition.
+
+## Scheme Implementation
+Mater Control is using `STM32F103` to send and uisng `STM32F407` to receive.
+<div>
+
+At the sending, we use ADC to collect analog signal and transform it to be digital signal 1 and 0. Then use timer to output the high and low level through infrared transmitter. At the receiving, we use ADC to collect the data through infrared reciver. And then use DAC to output signal into the loudspeaker.
+
+## Usage
+This is only a documentation package, just download and decompress this project. Make sure the version of CubeMX and Keil5 is matching!
+<div>
+
+## Code flow
+All the code i wrote is in the folder `New Group`: MyCode.c  MyCode.h  My_application.c
+
+>New Group
+>>MyCode.c : All function implementations
+
+>>MyCode.h : All function declarations
+
+>>My_application.c : Main cycle and interrupt
+
+
+
+
+## Maintainers
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+⭐️ [@zzpspierman123](https://github.com/zzpspierman123)
+
+## Relate Efforts
+· [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - learn the art of writing quality README
