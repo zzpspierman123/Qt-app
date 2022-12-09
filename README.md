@@ -11,7 +11,7 @@
 <div>
  <p>
   
-This project is about infrared communication, we use all digital scheme to achieve communication by infrared. 
+This project was an application which built by Qt, and it can run on your PC and phone. this app was a casual game and 
 <div>
 Besides this project is a subject about 2022 Electronic Design Competition.
 
