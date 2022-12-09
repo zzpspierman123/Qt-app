@@ -9,17 +9,12 @@
 ## About The Project
 <img src="https://komarev.com/ghpvc/?username=zzpspierman123" alt="zzpspierman123" />
 <div>
- <p>
+<p>
   
-This project was an application which built by Qt, and it can run on your PC and phone. this app was a casual game and 
-<div>
-Besides this project is a subject about 2022 Electronic Design Competition.
-
-## Scheme Implementation
-Mater Control is using `STM32F103` to send and uisng `STM32F407` to receive.
-<div>
-
-At the sending, we use ADC to collect analog signal and transform it to be digital signal 1 and 0. Then use timer to output the high and low level through infrared transmitter. At the receiving, we use ADC to collect the data through infrared reciver. And then use DAC to output signal into the loudspeaker.
+This project was an application which built by Qt, and it can run on your PC and phone. this app was a casual game and the theme is about sheep and wolves.
+## Install
+The forad Setup.exe is 
+ 
 
 ## Usage
 This is only a documentation package, just download and decompress this project. Make sure the version of CubeMX and Keil5 is matching!
