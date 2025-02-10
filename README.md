@@ -10,7 +10,7 @@
 
 ![微信图片_20250210170312](https://github.com/user-attachments/assets/401972a4-4c77-43ee-8161-0908f7b6502c)
 
-
+<div align=center><img width="300" height="500" src="https://github.com/user-attachments/assets/401972a4-4c77-43ee-8161-0908f7b6502c"/></div>
 
 <img src="https://komarev.com/ghpvc/?username=zzpspierman123" alt="zzpspierman123" />
 <div>
