@@ -7,6 +7,10 @@
 > A Sophomore Student in [HuaiHua University](http://www.hhtc.edu.cn/?affichelist-2)
 
 ## About The Project
+
+![image](https://github.com/user-attachments/assets/ac20aa16-2fbe-448f-bc16-3af7c8ac1e90)
+
+
 <img src="https://komarev.com/ghpvc/?username=zzpspierman123" alt="zzpspierman123" />
 <div>
 <p>
